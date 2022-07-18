@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/DBoW2/BowVector.cpp" "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o"
-  "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/DBoW2/FORB.cpp" "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o"
-  "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp" "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o"
-  "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp" "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o"
-  "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/DUtils/Random.cpp" "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o"
-  "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/DUtils/Timestamp.cpp" "/home/yanyan/Documents/research/open/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o"
+  "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/DBoW2/BowVector.cpp" "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o"
+  "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/DBoW2/FORB.cpp" "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o"
+  "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp" "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o"
+  "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp" "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o"
+  "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/DUtils/Random.cpp" "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o"
+  "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/DUtils/Timestamp.cpp" "/home/jeff/PlanarSLAM/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -20,7 +20,8 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include/opencv"
+  "/home/jeff/opencv-3.2.0-install/include"
+  "/home/jeff/opencv-3.2.0-install/include/opencv"
   )
 
 # Targets to which this target links.
